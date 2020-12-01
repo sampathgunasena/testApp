@@ -1,2 +1,2 @@
-#**Initiallize**
+# Initiallize
 Just an initiallizing repository.
